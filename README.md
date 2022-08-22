@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JacobeLevingston
+- 👋 Hi, I’m @Jacobe Levingston
 - 👀 I’m interested in Games and Anime
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on anything to help me in my journey in becoming a SE
